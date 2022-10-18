@@ -18,11 +18,11 @@ My name can be pronounced as "UG / You-Gee Cheung".
 
 ## Education
 
-Ph.D. in Economics, University of Houston (to be expected) 
+Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US (to be expected) 
 
-M.A. in Economics and Finance, [Hanyang University (Seoul, Korea)](https://site.hanyang.ac.kr/web/econeng/home), 2018 
+M.A. in Economics and Finance, [Hanyang University](https://site.hanyang.ac.kr/web/econeng/home), Korea, 2018 
 
-B.E. in Ocean and Naval Engineering, [Tianjin University (Tianjin, China)](http://www.tju.edu.cn/english/index.htm), 2016
+B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, 2016
 
 ## Working papers 
 
@@ -30,10 +30,12 @@ B.E. in Ocean and Naval Engineering, [Tianjin University (Tianjin, China)](http:
 
 ## Research experience
 
-* Researcher, Hobby School of Public Affairs, University of Houston, 2022-2023
-* Research Assistant of Prof. Steve Craig, University of Houston, 2021
-* Research Assistant of Prof. Gerardo Esquivel Hernandez, El Colegio de Mexico, 2010-2011
-* Research Assistant of Prof. Noemi Levi Orlik, UNAM, 2010-2011
+Research Assistant, Institute for Research on Women, Gender and Sexuality, University of Houston, Jun 2022 - now
+
+Research Assistant, Prof. Elaine M. Liu, University of Houston, Feb 2022
+
+Research Assistant, Prof. Yuyu Chen, Peking University, Nov - Dec 2020
+
 
 ## Teaching experience
 
@@ -44,11 +46,9 @@ B.E. in Ocean and Naval Engineering, [Tianjin University (Tianjin, China)](http:
 Prof. Nathan J. Canen, University of Houston, Spring 2022
 * Econometrics I (Ph.D. Level) 
 
-* Prof. Janet E. Kohlhase, University of Houston, Spring 2022
-
-Microeconomics I (Ph.D. Level)
-
-Evaluation: 5/5 regarding the teaching assistant was receptive to questions, 4.9/5 regarding the teaching assistant was available for assistance to students (department average was 4/5).
+Prof. Janet E. Kohlhase, University of Houston, Spring 2022
+* Microeconomics I (Ph.D. Level)
+* Evaluation: 5/5 regarding the teaching assistant was receptive to questions, 4.9/5 regarding the teaching assistant was available for assistance to students (department average was 4/5).
 
 Prof. Eleanor Jawon Choi, Hanyang University, Mar 2017 - Jul 2018
 * Courses: Applied Econometrics (Graduate Level), Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development.  
