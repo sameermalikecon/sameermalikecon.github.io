@@ -26,8 +26,7 @@ B.E. in Ocean and Naval Engineering, [Tianjin University (Tianjin, China)](http:
 
 ## Work in progress
 
-Research experience
-======
+## Research experience
 
 * Researcher, Hobby School of Public Affairs, University of Houston, 2022-2023
 * Research Assistant of Prof. Steve Craig, University of Houston, 2021
@@ -36,15 +35,22 @@ Research experience
 
 ## Teaching experience
 
-* Lecturer 
-* Teaching Assistant 
-- Econometrics I (Ph.D. Level), Prof. Nathan J. Canen, University of Houston, Spring 2022
-    - Syllabus [here](https://github.com/evaloaeza/Empirical-IO/blob/main/IO_szabo_%20syllabus_2022_updated.pdf){:target="_blank"}.
+### Lecturer 
 
-- Microeconomics I (Ph.D. Level), Prof. Janet E. Kohlhase, University of Houston, Spring 2022
-- Prof. Eleanor Jawon Choi, Hanyang University, March 2017 - July 2018
-    - Applied Econometrics (Graduate Level), Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development 
+### Teaching Assistant 
 
-## Other professional experience
+* Econometrics I (Ph.D. Level), Prof. Nathan J. Canen, University of Houston, Spring 2022
+  * Graded homework and held TA session every week.
 
-* 
+* Microeconomics I (Ph.D. Level), Prof. Janet E. Kohlhase, University of Houston, Spring 2022
+  * Evaluation: 5/5 regarding the teaching assistant was receptive to questions, 4.9/5 regarding the teaching assistant was available for assistance to students (department average was 4/5).
+
+* Prof. Eleanor Jawon Choi, Hanyang University, Mar 2017 - Jul 2018
+  * Courses: Applied Econometrics (Graduate Level), Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development.  
+  * Assisted professor with course materials, checking attendance of students, monitoring exams, managing records and the statistics of students’ performance. 
+  * Graded problem sets and exams for more than 150 students each semester, held office hour statistical software learning and collected feedback.
+
+## Working experience
+
+* Full-time Client Manager, Bank of Communications, Jiangsu, China, Aug 2018 - Sep 2019
+* Summer Intern in Loans Department, China Construction Bank, Sichuan, China, Jun - Aug 2017
