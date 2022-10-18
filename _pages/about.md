@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me
-
-I am a PhD student in Economics at [Universtity of Houston](https://www.uh.edu/class/economics/). I obtained my MA in Economics and Finance at [Hanyang University (Seoul, Korea)](https://site.hanyang.ac.kr/web/econeng/home), and BE in Ocean and Naval Engineering at [Tianjin University (Tianjin, China)](http://www.tju.edu.cn/english/index.htm).
+I am a PhD student in Economics at the [Universtity of Houston](https://www.uh.edu/class/economics/).
 
 I am interested in Applied Microeconomics including topics related to environment, health, education, family structure, and gender inequality. 
 
@@ -30,7 +28,10 @@ My name can be pronounced as "UG / You-Gee Cheung".
 
 ## Research experience
 
-* 
+* Researcher, Hobby School of Public Affairs, University of Houston, 2022-2023
+* Research Assistant of Prof. Steve Craig, University of Houston, 2021
+* Research Assistant of Prof. Gerardo Esquivel Hernandez, El Colegio de Mexico, 2010-2011
+* Research Assistant of Prof. Noemi Levi Orlik, UNAM, 2010-2011
 
 ## Teaching experience
 
