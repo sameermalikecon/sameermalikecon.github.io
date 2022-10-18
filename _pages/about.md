@@ -16,4 +16,4 @@ I am interested in Applied Microeconomics topics including environment, health, 
 
 Here you can find my <a href="/files/YujieZhang_CV.pdf">CV</a>. 
 
-My name can be pronounced as "UG / You-Gee Cheung" and my Chinese name is 张玉洁. 
+My name can be pronounced as "UG / You-Gee Cheung". 
