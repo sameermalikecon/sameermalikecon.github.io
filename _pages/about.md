@@ -15,3 +15,5 @@ I am a PhD student in Economics at [Universtity of Houston](https://www.uh.edu/c
 I am interested in Applied Microeconomics topics including environment, health, education, family structure, and gender inequality. 
 
 Here you can find my <a href="/files/YujieZhang_CV.pdf">CV</a>. 
+
+My name can be pronounced as "UG / You-Gee Cheung" and my Chinese name is 张玉洁. 
