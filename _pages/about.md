@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Yujie Zhang (pronounced as "UG/You-Gee Cheung")"
+title: "Yujie Zhang"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-
 
 ## About me
 
