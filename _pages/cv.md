@@ -19,12 +19,6 @@ M.A. in Economics and Finance, [Hanyang University](https://site.hanyang.ac.kr/w
 
 B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, 2016
 
-# Holalalal 
-
-check this out 
-
-## how bout
-
 ## [Research Experience](https://yujiezhangecon.github.io/publications/)
 
 ### Working Papers 
@@ -38,7 +32,6 @@ Research Assistant, Institute for Research on Women, Gender and Sexuality, Unive
 Research Assistant, Prof. Elaine M. Liu, University of Houston, Feb 2022
 
 Research Assistant, Prof. Yuyu Chen, Peking University, Nov - Dec 2020
-
 
 ## [Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
 
@@ -63,30 +56,10 @@ Prof. Eleanor Jawon Choi, Hanyang University, Mar 2017 - Jul 2018
 * Graded problem sets and exams for more than 150 students each semester, held office hour statistical software learning and collected feedback.
 
 ## Working Experience
+Working Experience 
+------
 
 Full-time Client Manager, Bank of Communications, Jiangsu, China, Aug 2018 - Sep 2019
 
 Summer Intern in Loans Department, China Construction Bank, Sichuan, China, Jun - Aug 2017
-
-
-
-# Education
-
-* Ph.D. in Economics, University of Houston (expected)
-* M.A. in Economics and Finance, Hanyang University, 2018
-* B.E. in Ocean and Naval Engineering, Tianjin University, 2016
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 
