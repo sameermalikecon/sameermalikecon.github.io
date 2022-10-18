@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here you can find my <a href="/files/YujieZhang_CV.pdf">CV</a>.
+
 Education
 ======
 * Ph.D. in Economics, University of Houston (expected)
