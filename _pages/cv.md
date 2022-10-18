@@ -11,7 +11,8 @@ redirect_from:
 
 Here you can find my <a href="/files/YujieZhang_CV.pdf">CV</a>.
 
-## Education
+Education
+------
 
 Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US (to be expected) 
 
@@ -33,7 +34,8 @@ Research Assistant, Prof. Elaine M. Liu, University of Houston, Feb 2022
 
 Research Assistant, Prof. Yuyu Chen, Peking University, Nov - Dec 2020
 
-## [Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
+[Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
+------
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -55,7 +57,6 @@ Prof. Eleanor Jawon Choi, Hanyang University, Mar 2017 - Jul 2018
 * Assisted professor with course materials, checking attendance of students, monitoring exams, managing records and the statistics of students’ performance. 
 * Graded problem sets and exams for more than 150 students each semester, held office hour statistical software learning and collected feedback.
 
-## Working Experience
 Working Experience 
 ------
 
