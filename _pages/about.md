@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at the [Universtity of Houston](https://www.uh.edu/class/economics/).  
+I am a PhD student in Economics at the [Universtity of Houston](https://www.uh.edu/class/economics/). Here you can find my <a href="/files/YujieZhang_CV.pdf">CV</a>.
 
 I am interested in Applied Microeconomics including topics related to environment, health, education, family structure, and gender inequality. 
 
-Here you can find my <a href="/files/YujieZhang_CV.pdf">CV</a>. My name can be pronounced as "UG / You-Gee Cheung". 
-
-This site is still under construction, so please forgive missing items such as pictures, descriptions, etc.
+My name can be pronounced as "UG / You-Gee Cheung". This site is still under construction, so please forgive missing items such as pictures, descriptions, etc.
 
 ## Education
 
