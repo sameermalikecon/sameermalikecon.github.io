@@ -18,15 +18,16 @@ My name can be pronounced as "UG / You-Gee Cheung".
 
 ## Education
 
-* Ph.D. in Economics, University of Houston (to be expected) 
-* M.A. in Economics and Finance, [Hanyang University (Seoul, Korea)](https://site.hanyang.ac.kr/web/econeng/home), 2018 
-* B.E. in Ocean and Naval Engineering, [Tianjin University (Tianjin, China)](http://www.tju.edu.cn/english/index.htm), 2016
+Ph.D. in Economics, University of Houston (to be expected) 
+M.A. in Economics and Finance, [Hanyang University (Seoul, Korea)](https://site.hanyang.ac.kr/web/econeng/home), 2018 
+B.E. in Ocean and Naval Engineering, [Tianjin University (Tianjin, China)](http://www.tju.edu.cn/english/index.htm), 2016
 
 ## Working papers 
 
 ## Work in progress
 
-## Research experience
+Research experience
+======
 
 * Researcher, Hobby School of Public Affairs, University of Houston, 2022-2023
 * Research Assistant of Prof. Steve Craig, University of Houston, 2021
