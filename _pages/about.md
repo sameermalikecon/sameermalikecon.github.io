@@ -36,7 +36,14 @@ Research experience
 
 ## Teaching experience
 
-* 
+* Lecturer 
+* Teaching Assistant 
+- Econometrics I (Ph.D. Level), Prof. Nathan J. Canen, University of Houston, Spring 2022
+    - Syllabus [here](https://github.com/evaloaeza/Empirical-IO/blob/main/IO_szabo_%20syllabus_2022_updated.pdf){:target="_blank"}.
+
+- Microeconomics I (Ph.D. Level), Prof. Janet E. Kohlhase, University of Houston, Spring 2022
+- Prof. Eleanor Jawon Choi, Hanyang University, March 2017 - July 2018
+    - Applied Econometrics (Graduate Level), Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development 
 
 ## Other professional experience
 
