@@ -19,7 +19,9 @@ My name can be pronounced as "UG / You-Gee Cheung".
 ## Education
 
 Ph.D. in Economics, University of Houston (to be expected) 
+
 M.A. in Economics and Finance, [Hanyang University (Seoul, Korea)](https://site.hanyang.ac.kr/web/econeng/home), 2018 
+
 B.E. in Ocean and Naval Engineering, [Tianjin University (Tianjin, China)](http://www.tju.edu.cn/english/index.htm), 2016
 
 ## Working papers 
@@ -39,18 +41,22 @@ B.E. in Ocean and Naval Engineering, [Tianjin University (Tianjin, China)](http:
 
 ### Teaching Assistant 
 
-* Econometrics I (Ph.D. Level), Prof. Nathan J. Canen, University of Houston, Spring 2022
-  * Graded homework and held TA session every week.
+Prof. Nathan J. Canen, University of Houston, Spring 2022
+* Econometrics I (Ph.D. Level) 
 
-* Microeconomics I (Ph.D. Level), Prof. Janet E. Kohlhase, University of Houston, Spring 2022
-  * Evaluation: 5/5 regarding the teaching assistant was receptive to questions, 4.9/5 regarding the teaching assistant was available for assistance to students (department average was 4/5).
+* Prof. Janet E. Kohlhase, University of Houston, Spring 2022
 
-* Prof. Eleanor Jawon Choi, Hanyang University, Mar 2017 - Jul 2018
-  * Courses: Applied Econometrics (Graduate Level), Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development.  
-  * Assisted professor with course materials, checking attendance of students, monitoring exams, managing records and the statistics of students’ performance. 
-  * Graded problem sets and exams for more than 150 students each semester, held office hour statistical software learning and collected feedback.
+Microeconomics I (Ph.D. Level)
+
+Evaluation: 5/5 regarding the teaching assistant was receptive to questions, 4.9/5 regarding the teaching assistant was available for assistance to students (department average was 4/5).
+
+Prof. Eleanor Jawon Choi, Hanyang University, Mar 2017 - Jul 2018
+* Courses: Applied Econometrics (Graduate Level), Introductory Mathematical Economics, Econometrics, Empirical Methods in Applied Microeconomics, and Career Development.  
+* Assisted professor with course materials, checking attendance of students, monitoring exams, managing records and the statistics of students’ performance. 
+* Graded problem sets and exams for more than 150 students each semester, held office hour statistical software learning and collected feedback.
 
 ## Working experience
 
-* Full-time Client Manager, Bank of Communications, Jiangsu, China, Aug 2018 - Sep 2019
-* Summer Intern in Loans Department, China Construction Bank, Sichuan, China, Jun - Aug 2017
+Full-time Client Manager, Bank of Communications, Jiangsu, China, Aug 2018 - Sep 2019
+
+Summer Intern in Loans Department, China Construction Bank, Sichuan, China, Jun - Aug 2017
