@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, University of Houston (expected)
+* M.A. in Economics and Finance, Hanyang University, 2018
+* B.E. in Ocean and Naval Engineering, Tianjin University, 2016
 
 Work experience
 ======
