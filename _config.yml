@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" "aqua", # "air", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yujie ZHANG"
+title                    : "Yujie Zhang"
 title_separator          : "-"
 name                     : &name "Yujie Zhang"
 description              : &description "I am a Ph.D. student in Economics at the University of Houston. I am interested in Applied Microeconomics, Health, Environment, Education, Family, and Gender."
