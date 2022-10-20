@@ -20,7 +20,7 @@ M.A. in Economics and Finance, [Hanyang University](https://site.hanyang.ac.kr/w
 
 B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, 2016
 
-## [Research Experience](https://yujiezhangecon.github.io/publications/)
+## [Research Experience](https://yujiezhangecon.github.io/research/)
 
 ### Working Papers 
 
