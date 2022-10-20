@@ -44,7 +44,7 @@ Research Assistant, Prof. Yuyu Chen, Peking University, Nov - Dec 2020
 Prof. Nathan J. Canen, University of Houston, Spring 2022
 * Econometrics I (Ph.D. Level) 
 
-Prof. Janet E. Kohlhase, University of Houston, Spring 2022
+Prof. Janet E. Kohlhase, University of Houston, Fall 2021
 * Microeconomics I (Ph.D. Level)
 * Evaluation: 5/5 regarding the teaching assistant was receptive to questions, 4.9/5 regarding the teaching assistant was available for assistance to students (department average was 4/5).
 
