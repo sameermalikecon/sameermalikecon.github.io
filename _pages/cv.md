@@ -37,10 +37,6 @@ Research Assistant, Prof. Yuyu Chen, Peking University, Nov - Dec 2020
 [Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
 ------
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 ### Lecturer 
 
 ### Teaching Assistant 
