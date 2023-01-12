@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "yzhan187@cougarnet.uh.edu"
+    email                : "yjiezhang@outlook.com"
   generatedFields:
     date:
       type               : "date"
@@ -87,7 +87,7 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : yzhan187@cougarnet.uh.edu
+  email            : yjiezhang@outlook.com
   researchgate     : # "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "YujieZhangEcon"
   vine             :
   weibo            :
   xing             :
