@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -13,4 +14,21 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} 
+-->
+
+{% include base_path %}
+
+Publication
+--
+
+[News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns](http://yujiezhangecon.github.io/files/ZhangNam_00_main.pdf) <br>
+Recommended citation: Zhang, Yujie, and Deokwoo Nam. 2022. "News-driven Business Cycles: Evidence from Investors’ Expectations of Future Stock Market Returns." JOURNAL OF ECONOMIC RESEARCH 27, no. 1: 1-22.
+
+Work in Progress
+--
+
+[The Effect of Children Gender on Younger Siblings’ Health Outcomes]
+
+
+
