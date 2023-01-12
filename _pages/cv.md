@@ -14,7 +14,7 @@ Here you can find my <a href="/files/YujieZhang_CV_221023.pdf">CV</a>.
 Education
 ------
 
-Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US (to be expected) 
+Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US (2020 - present) 
 
 M.A. in Economics and Finance, [Hanyang University](https://econ.hanyang.ac.kr/), Korea, 2018 
 
@@ -33,7 +33,7 @@ The Effect of Children Gender on Younger Siblings’ Health Outcomes
 ### Research Experience
 -->
 
-Research Assistant, Institute for Research on Women, Gender and Sexuality, University of Houston, Jun 2022 - now
+Research Assistant, Institute for Research on Women, Gender and Sexuality, University of Houston, Jun 2022 - present
 
 Research Assistant, Prof. Elaine M. Liu, University of Houston, Feb 2022
 
