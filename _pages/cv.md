@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here you can find my <a href="/files/YujieZhang_CV.pdf">CV</a>.
+Here you can find my <a href="/files/YujieZhang_CV_221023.pdf">CV</a>.
 
 Education
 ------
