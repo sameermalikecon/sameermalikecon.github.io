@@ -16,17 +16,22 @@ Education
 
 Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US (to be expected) 
 
-M.A. in Economics and Finance, [Hanyang University](https://site.hanyang.ac.kr/web/econeng/home), Korea, 2018 
+M.A. in Economics and Finance, [Hanyang University](https://econ.hanyang.ac.kr/), Korea, 2018 
 
 B.E. in Ocean and Naval Engineering, [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, 2016
 
-## [Research Experience](https://yujiezhangecon.github.io/research/)
+[Research Experience](https://yujiezhangecon.github.io/research/)
+------
 
+<!-- 
 ### Working Papers 
 
 ### Work in Progress
 
+The Effect of Children Gender on Younger Siblings’ Health Outcomes  
+
 ### Research Experience
+-->
 
 Research Assistant, Institute for Research on Women, Gender and Sexuality, University of Houston, Jun 2022 - now
 
@@ -37,7 +42,7 @@ Research Assistant, Prof. Yuyu Chen, Peking University, Nov - Dec 2020
 [Teaching Experience](https://yujiezhangecon.github.io/teaching/) 
 ------
 
-### Lecturer 
+<!-- ### Lecturer  -->
 
 ### Teaching Assistant 
 
