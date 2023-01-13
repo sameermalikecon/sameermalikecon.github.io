@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Here you can find my <a href="/files/YujieZhang_CV_221023.pdf">CV</a>.
+Here you can find my <a href="/files/YSameer_CV_Dec2022.pdf">CV</a>.
 
 Education
 ------
 
-Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US (2020 - present) 
+Ph.D. in Economics, [Universtity of Houston](https://www.uh.edu/class/economics/), US (2019 - present) 
 
 M.A. in Economics and Finance, [Hanyang University](https://econ.hanyang.ac.kr/), Korea, 2018 
 
