@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yujie Zhang"
+title                    : "Sam Awesome"
 title_separator          : "-"
-name                     : &name "Yujie Zhang"
+name                     : &name "Sam Awesome"
 description              : &description "I am a Ph.D. student in Economics at the University of Houston. I am interested in Applied Microeconomics, Health, Environment, Education, Family, and Gender."
 url                      : https://yujiezhangecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yujiezhangecon/yujiezhangecon.github.io"
+repository               : "sameermalikecon/sameermalikecon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
