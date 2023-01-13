@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Awesome"
+title                    : "Sameer Malik"
 title_separator          : "-"
-name                     : &name "Sam Awesome"
-description              : &description "I am a Ph.D. student in Economics at the University of Houston. I am interested in Applied Microeconomics, Health, Environment, Education, Family, and Gender."
-url                      : https://yujiezhangecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sameer Malik"
+description              : &description "I am a Ph.D. student in the Economics at the University of Houston. I am interested in ."
+url                      : https://sameermalikecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sameermalikecon/sameermalikecon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "yjiezhang@outlook.com"
+    email                : "smalik9@uh.edu"
   generatedFields:
     date:
       type               : "date"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yujie Zhang"
-  avatar           : "profile_YujieZhang.jpg"
+  name             : "Sameer Malik"
+  avatar           : "sam.jpg"
   bio              : "Ph.D. Student in Economics at University of Houston"
   location         : "Houston, TX, US"
   employer         : 
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : yjiezhang@outlook.com
+  email            : smalik9@uh.edu
   researchgate     : # "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yujiezhangecon"
+  github           : "sameermalikecon"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "YujieZhangEcon"
+  twitter          : "sameer_econ"
   vine             :
   weibo            :
   xing             :
